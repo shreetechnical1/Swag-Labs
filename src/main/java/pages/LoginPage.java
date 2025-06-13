@@ -11,7 +11,7 @@ public class LoginPage {
 	
 	private WebDriver driver;
 	
-	
+	//This comment is to test git in an already existing file
 	
 	@FindBy(id="user-name")
 	WebElement username;
